@@ -4,7 +4,7 @@
 > Docker & Kubernetes — showcasing production-grade container networking 
 > and security.
 
-![Docker](https://img.shields.io/badge/Docker-28.x-2496ED?logo=docker)
+![Docker](https://img.shields.io/badge/Docker-29.x-2496ED?logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-1.35-326CE5?logo=kubernetes)
 ![Azure](https://img.shields.io/badge/Azure-AKS-0078D4?logo=microsoftazure)
 ![License](https://img.shields.io/badge/License-MIT-green)
@@ -61,12 +61,11 @@ enterprise-grade containerization patterns including:
 
 ---
 
-## 🛠️ Technology Stack
-
 | Category | Technology |
 |---|---|
-| Containerization | Docker 28.x |
-| Orchestration | Kubernetes 1.29 / Azure AKS |
+| Containerization | Docker 29.x |
+| Container Compose | Docker Compose v5 |
+| Orchestration | Kubernetes 1.35 / Azure AKS |
 | Networking | Docker Bridge Networks, K8s CNI, Network Policies |
 | Security | RBAC, Pod Security Standards, Falco, Trivy |
 | Monitoring | Prometheus, Grafana |
