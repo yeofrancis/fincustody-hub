@@ -5,7 +5,7 @@
 > and security.
 
 ![Docker](https://img.shields.io/badge/Docker-28.x-2496ED?logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-1.29-326CE5?logo=kubernetes)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-1.35-326CE5?logo=kubernetes)
 ![Azure](https://img.shields.io/badge/Azure-AKS-0078D4?logo=microsoftazure)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
