@@ -1,0 +1,17 @@
+# Dependencies - Docker will install these fresh
+node_modules
+npm-debug.log
+
+# Environment files - NEVER put secrets in an image
+.env
+.env.local
+.env.*.local
+
+# Development files
+.git
+.gitignore
+*.md
+
+# OS files
+.DS_Store
+Thumbs.db
